@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Auvarmf
+- 👋 Hi, I’m Auvar
 - 👀 I’m interested in Web Developer (Front End)
-- 🌱 I’m currently learning HTML, CSS, JavaScript, C++
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and C++
 - 💞️ I’m looking to collaborate on Web Design
-- 📫 How to reach me? You can contact me via my instagram <a href="https://www.instagram.com/auvar_mf/" target="_blank">@auvar_mf</a> or my email auvar.9b@gmail.com
+- 📫 How to reach me? You can contact me via instagram <a href="https://www.instagram.com/auvar_mf/" target="_blank">@auvar_mf</a> or my email auvar.9b@gmail.com
 
 <!---
 Hi everyone, my name is Auvar Mahsa Fahlevi and thank you for visiting my profile.
