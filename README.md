@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on Web Design
 - 📫 How to reach me? You can contact me via instagram <a href="https://www.instagram.com/auvar_mf/" target="_blank">@auvar_mf</a> or my email auvar.9b@gmail.com
 
-https://github-readme-stats.vercel.app/api?username=auvarmf&theme=tokyonight
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=auvarmf&theme=tokyonight)
