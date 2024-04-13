@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Auvar+MF!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Auvar!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate web developer</h3>
 
 <hr>
 
@@ -46,5 +46,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Auvarmf&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+visiting!;+See+you+soon👋;" />
+</h1>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
