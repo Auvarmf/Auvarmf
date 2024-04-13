@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Auvar</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=auvarmf&label=Profile%20views&color=0e75b6&style=flat" alt="auvarmf" /> </p>
+<hr>
 
 - 🔭 I’m currently working on [Web Developer](https://github.com/Auvarmf/project-presensi-sma4)
 
@@ -25,7 +25,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Auvarmf&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Auvarmf&theme=radical&hide_border=false)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auvarmf&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="auvarmf" /></p>
+<p><img style="justify-content: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auvarmf&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="auvarmf" /></p>
 
 
 
