@@ -43,6 +43,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Auvarmf&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+<hr>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+visiting!;+See+you+soon👋;" />
