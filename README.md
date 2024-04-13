@@ -24,7 +24,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Auvarmf&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Auvarmf&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Auvarmf&theme=radical&hide_border=false)<br>
 <p><img style="justify-content: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auvarmf&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="auvarmf" /></p>
 
 
