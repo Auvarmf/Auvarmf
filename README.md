@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **HTML, CSS, Java**
 
-- 📫 How to reach me **auvar.9b@gmail.com**.
+- 📫 How to reach me **auvar.9b@gmail.com**
 
 <hr>
 
